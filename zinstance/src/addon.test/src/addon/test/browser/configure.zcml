@@ -1,0 +1,35 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:plone="http://namespaces.plone.org/plone"
+    i18n_domain="addon.test">
+
+  <!-- Set overrides folder for Just-a-Bunch-Of-Templates product -->
+  <include package="z3c.jbot" file="meta.zcml" />
+  <browser:jbot
+      directory="overrides"
+      layer="addon.test.interfaces.IAddonTestLayer"
+      />
+
+  <!-- Publish static files -->
+  <plone:static
+      name="addon.test"
+      type="plone"
+      directory="static"
+      />
+      
+      <browser:page
+          for="*"
+          name="test"
+          permission="zope2.Public"
+          class=".views.MyView"
+          />
+          
+   <browser:page
+     name="training"
+     for="*"
+     template="templates/training.pt"
+     permission="zope2.View"
+     />
+
+</configure>

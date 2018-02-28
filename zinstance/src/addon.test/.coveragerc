@@ -1,0 +1,6 @@
+[report]
+include =
+    src/addon/*
+omit =
+    */test*
+    */upgrades/*

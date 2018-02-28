@@ -2404,3 +2404,497 @@
 2018-02-28T03:18:13 INFO SignalHandler Caught signal SIGINT
 ------
 2018-02-28T03:18:13 INFO Z2 Shutting down
+------
+2018-02-28T03:45:27 INFO ZServer HTTP server started at Wed Feb 28 03:45:27 2018
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2018-02-28T03:45:30 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2018-02-28T03:45:36 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2018-02-28T03:45:38 INFO Zope Ready to handle requests
+------
+2018-02-28T03:46:13 INFO plone.app.theming.policy local cache invalidated on thread 140056794597120
+------
+2018-02-28T03:46:13 INFO plone.app.theming.policy initializing local cache on thread 140056794597120 for http://pythonrw-sai0819.c9users.io/bobdev::barceloneta
+------
+2018-02-28T03:47:04 INFO plone.app.theming.policy local cache invalidated on thread 140056786204416
+------
+2018-02-28T03:47:04 INFO plone.app.theming.policy initializing local cache on thread 140056786204416 for http://pythonrw-sai0819.c9users.io/bobdev::barceloneta
+------
+2018-02-28T03:50:06 INFO SignalHandler Caught signal SIGINT
+------
+2018-02-28T03:50:06 INFO Z2 Shutting down
+------
+2018-02-28T03:50:32 INFO ZServer HTTP server started at Wed Feb 28 03:50:32 2018
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2018-02-28T03:50:34 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2018-02-28T03:50:40 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2018-02-28T03:50:42 INFO Zope Ready to handle requests
+------
+2018-02-28T03:50:58 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:50:58 INFO plone.app.theming.policy initializing local cache on thread 140676808705792 for http://pythonrw-sai0819.c9users.io/bobdev::barceloneta
+------
+2018-02-28T03:52:38 INFO Products.CMFPlone CSRF protection disabled on initial site creation
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Importing profile profile-Products.CMFPlone:plone with dependency strategy upgrade.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying main profile profile-Products.CMFPlone:plone
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Profile upgrade versions purged.
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.properties Site properties imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Adapters purged.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Subscribers purged.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Utilities purged.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.memberdata MemberData tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.contenttypes Content type registry imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.mailhost Mailhost imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.propertiestool Properties tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.viewletmanager Imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.types 'TempFolder' type info imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:52:38 INFO GenericSetup.catalog Catalog imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.workflow Workflow tool imported.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Importing profile profile-Products.CMFPlone:dependencies with dependency strategy upgrade.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-Products.CMFFormController:CMFFormController
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-Products.MimetypesRegistry:MimetypesRegistry
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-Products.PortalTransforms:PortalTransforms
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-Products.CMFEditions:CMFEditions
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup. RepositoryTool settings imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.catalog Catalog imported.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-Products.PlonePAS:PlonePAS
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.z3cform:default
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:52:38 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:52:38 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.registry:default
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.discussion:default
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:52:38 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.catalog Catalog imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.workflow Workflow tool imported.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.intid:default
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.relationfield:default
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.linkintegrity:default
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.resource:default
+------
+2018-02-28T03:52:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:52:38 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:52:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.theming:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:39 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying profile profile-plone.app.users:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO plone.app.users.setuphandlers Imported schema
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying profile profile-plone.outputfilters:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying profile profile-plone.app.querystring:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying profile profile-plone.portlet.collection:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying profile profile-plone.portlet.static:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying profile profile-plone.keyring:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying profile profile-plone.protect:default
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO Products.GenericSetup.tool Applying main profile profile-Products.CMFPlone:dependencies
+------
+2018-02-28T03:52:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:39 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:39 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool Importing profile profile-plone.app.contenttypes:plone-content with dependency strategy upgrade.
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool Applying profile profile-plone.app.dexterity:default
+------
+2018-02-28T03:52:40 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool Applying profile profile-plone.formwidget.recurrence:default
+------
+2018-02-28T03:52:40 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool Applying profile profile-plone.app.event:default
+------
+2018-02-28T03:52:40 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:52:40 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Folder' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Collection' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Old catalog DateIndex start deleted.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Catalog DateRecurringIndex start created.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Catalog metadata column start already exists.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Old catalog DateIndex end deleted.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Catalog DateRecurringIndex end created.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Catalog metadata column end already exists.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Catalog FieldIndex sync_uid created.
+------
+2018-02-28T03:52:40 INFO plone.app.event.setuphandlers Catalog metadata column sync_uid created.
+------
+2018-02-28T03:52:40 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.querystring:default. Profile stays at version (u'13',).
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.intid:default. Profile stays at version (u'1',).
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.relationfield:default. Profile stays at version (u'1',).
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool Applying profile profile-plone.app.versioningbehavior:default
+------
+2018-02-28T03:52:40 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.discussion:default. Profile stays at version (u'102',).
+------
+2018-02-28T03:52:40 INFO Products.GenericSetup.tool Applying profile profile-plone.app.contenttypes:default
+------
+2018-02-28T03:52:40 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup. DiffTool settings imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup. DiffTool settings imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:52:40 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Collection' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Document' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Folder' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Link' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'File' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Image' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'News Item' type info imported.
+------
+2018-02-28T03:52:40 INFO GenericSetup.types 'Event' type info imported.
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool Applying main profile profile-plone.app.contenttypes:plone-content
+------
+2018-02-28T03:52:41 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:41 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool Importing profile profile-plonetheme.barceloneta:default with dependency strategy upgrade.
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.resource:default. Profile stays at version (u'1',).
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.theming:default. Profile stays at version (u'1001',).
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool Applying main profile profile-plonetheme.barceloneta:default
+------
+2018-02-28T03:52:41 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:41 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:52:41 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy shared invalidation requires local cache reset on 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy initializing local cache on thread 140676808705792 for http://pythonrw-sai0819.c9users.io/Plone2::barceloneta
+------
+2018-02-28T03:52:41 INFO GenericSetup.plone.app.theming.exportimport Theme barceloneta applied
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:41 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:52:41 INFO GenericSetup.plone.app.theming.exportimport Theme enabled
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool Importing profile profile-plone.app.caching:default with dependency strategy upgrade.
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2018-02-28T03:52:41 INFO Products.GenericSetup.tool Applying main profile profile-plone.app.caching:default
+------
+2018-02-28T03:52:41 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:52:41 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:52:42 INFO plone.app.theming.policy shared invalidation requires local cache reset on 140676808705792
+------
+2018-02-28T03:52:42 INFO plone.app.theming.policy local cache invalidated on thread 140676808705792
+------
+2018-02-28T03:52:42 INFO plone.app.theming.policy initializing local cache on thread 140676808705792 for http://pythonrw-sai0819.c9users.io/Plone2::barceloneta
+------
+2018-02-28T03:53:02 INFO plone.app.theming.policy local cache invalidated on thread 140676800313088
+------
+2018-02-28T03:53:02 INFO plone.app.theming.policy initializing local cache on thread 140676800313088 for http://pythonrw-sai0819.c9users.io/bobdev::barceloneta
+------
+2018-02-28T03:54:26 INFO SignalHandler Caught signal SIGINT
+------
+2018-02-28T03:54:26 INFO Z2 Shutting down
+------
+2018-02-28T04:00:41 INFO ZServer HTTP server started at Wed Feb 28 04:00:41 2018
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2018-02-28T04:00:48 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2018-02-28T04:00:51 INFO Zope Ready to handle requests
+------
+2018-02-28T04:02:44 INFO SignalHandler Caught signal SIGINT
+------
+2018-02-28T04:02:44 INFO Z2 Shutting down

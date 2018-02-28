@@ -1,0 +1,3 @@
+==========addon.test
+==========
+User documentation
