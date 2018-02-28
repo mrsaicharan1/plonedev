@@ -1,0 +1,2406 @@
+------
+2018-02-28T03:16:21 INFO ZServer HTTP server started at Wed Feb 28 03:16:21 2018
+	Hostname: 0.0.0.0
+	Port: 8080
+------
+2018-02-28T03:16:24 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2018-02-28T03:16:25 INFO ZODB.blob (10441) Blob directory `/home/ubuntu/Plone/zinstance/var/blobstorage` is unused and has no layout marker set. Selected `bushy` layout. 
+------
+2018-02-28T03:16:25 INFO ZODB.blob (10441) Blob temporary directory '/home/ubuntu/Plone/zinstance/var/blobstorage/tmp' does not exist. Created new directory.
+------
+2018-02-28T03:16:38 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2018-02-28T03:16:40 INFO Zope Ready to handle requests
+------
+2018-02-28T03:17:36 INFO Products.CMFPlone CSRF protection disabled on initial site creation
+------
+2018-02-28T03:17:36 INFO Products.GenericSetup.tool Importing profile profile-Products.CMFPlone:plone with dependency strategy upgrade.
+------
+2018-02-28T03:17:36 INFO Products.GenericSetup.tool Applying main profile profile-Products.CMFPlone:plone
+------
+2018-02-28T03:17:36 INFO Products.GenericSetup.tool Profile upgrade versions purged.
+------
+2018-02-28T03:17:36 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.properties Site properties imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.componentregistry Adapters purged.
+------
+2018-02-28T03:17:36 INFO GenericSetup.componentregistry Subscribers purged.
+------
+2018-02-28T03:17:36 INFO GenericSetup.componentregistry Utilities purged.
+------
+2018-02-28T03:17:36 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:17:36 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:17:36 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.memberdata MemberData tool imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.contenttypes Content type registry imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.mailhost Mailhost imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.propertiestool Properties tool imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.plone.app.viewletmanager Imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.types 'TempFolder' type info imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:17:36 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:17:36 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:17:36 INFO GenericSetup.catalog Catalog imported.
+------
+2018-02-28T03:17:36 INFO GenericSetup.workflow Workflow tool imported.
+------
+2018-02-28T03:17:36 INFO Products.GenericSetup.tool Importing profile profile-Products.CMFPlone:dependencies with dependency strategy upgrade.
+------
+2018-02-28T03:17:36 INFO Products.GenericSetup.tool Applying profile profile-Products.CMFFormController:CMFFormController
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-Products.MimetypesRegistry:MimetypesRegistry
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-Products.PortalTransforms:PortalTransforms
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.repositorytool Nothing to import.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-Products.CMFEditions:CMFEditions
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup. RepositoryTool settings imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.catalog Catalog imported.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-Products.PlonePAS:PlonePAS
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.replaceRootUserFolder Capturing user info for admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.replaceRootUserFolder Translating user admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.replaceRootUserFolder Replaced root acl_users with PluggableAuthService
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_setup)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/MailHost)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/caching_policy_manager)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/content_type_registry)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/error_log)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/plone_utils)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/document_actions)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/document_actions/rss)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/document_actions/print)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/document_actions/extedit)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/site_actions)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/site_actions/sitemap)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/site_actions/accessibility)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/site_actions/contact)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object/folderContents)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object/history)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object/local_roles)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object/contentrules)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object/syndication)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object_buttons)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object_buttons/cut)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object_buttons/copy)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object_buttons/paste)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object_buttons/delete)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/object_buttons/rename)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/portal_tabs)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/portal_tabs/index_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/user)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/user/preferences)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/user/login)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/user/join)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/user/undo)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/user/plone_setup)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_actions/user/logout)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_catalog)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_catalog/htmltext_lexicon)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_catalog/plaintext_lexicon)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_catalog/plone_lexicon)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_controlpanel)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_css)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_diff)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_groupdata)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_groups)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_javascripts)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_memberdata)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_membership)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_migration)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_password_reset)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_properties)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_properties/navtree_properties)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_properties/site_properties)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_quickinstaller)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_registration)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/custom)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/PasswordReset)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/mimetypes_icons)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 100
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_content)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_ecmascript)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_form_scripts)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_images)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_login)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 200
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_prefs)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_scripts)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_templates)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/plone_wysiwyg)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/CMFEditions)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_skins/cmfeditions_views)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_types)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_types/Discussion Item)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_types/Plone Site)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_types/TempFolder)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 300
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_uidannotation)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_uidgenerator)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_uidhandler)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_url)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_view_customizations)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/states/visible)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/states/private)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/states/published)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/transitions/retract)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/transitions/hide)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/transitions/publish)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/transitions/show)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/variables/action)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/variables/time)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/variables/comments)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/variables/actor)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/folder_workflow/variables/review_history)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/states/internal)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/states/private)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/transitions/hide)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/transitions/show_internally)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/variables/action)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/variables/time)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/variables/comments)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/variables/actor)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_folder_workflow/variables/review_history)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/states/internally_published)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/states/internal)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/states/private)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/states/pending)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/states/external)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/transitions/hide)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/transitions/submit)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/transitions/show_internally)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/transitions/publish_internally)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/transitions/reject)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/transitions/retract)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/transitions/publish_externally)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/variables/action)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/variables/time)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/variables/comments)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/variables/actor)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/variables/review_history)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/intranet_workflow/worklists/reviewer_queue)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/one_state_workflow)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/one_state_workflow/states/published)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/one_state_workflow/variables/action)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/one_state_workflow/variables/time)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/one_state_workflow/variables/comments)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/one_state_workflow/variables/actor)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/one_state_workflow/variables/review_history)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/states/visible)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/states/private)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/states/pending)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/states/published)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/transitions/hide)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/transitions/show)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/transitions/submit)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/transitions/publish)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/transitions/reject)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/transitions/retract)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/variables/action)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/variables/time)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/variables/comments)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/variables/actor)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/variables/review_history)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/plone_workflow/worklists/reviewer_queue)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/states/private)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 400
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/states/pending)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/states/published)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/transitions/retract)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/transitions/submit)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/transitions/publish)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/transitions/reject)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/variables/action)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/variables/time)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/variables/comments)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/variables/actor)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/variables/review_history)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_workflow/simple_publication_workflow/worklists/reviewer_queue)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/translation_service)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_form_controller)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/mimetypes_registry)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/st_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/rest_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/word_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/safe_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/html_body)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/html_to_text)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/text_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/text-pre_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/pdf_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/pdf_to_text)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/image_to_png)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/image_to_gif)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/image_to_jpeg)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/image_to_pcx)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/image_to_ppm)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/image_to_tiff)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/image_to_bmp)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/lynx_dump)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/python_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/rest_to_text)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/markdown_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/textile_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/web_intelligent_plain_text_to_html)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_transforms/html_to_web_intelligent_plain_text)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_archivist)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_historiesstorage)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_historyidhandler)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/OMInsideChildrensModifier)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/OMOutsideChildrensModifier)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/RetainUIDs)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/RetainATRefs)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/NotRetainATRefs)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/RetainWorkflowStateAndHistory)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/RetainPermissionsSettings)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/SaveFileDataInFileTypeByReference)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/SillyDemoRetrieveModifier)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/SkipParentPointers)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/SkipRegistryBasesPointers)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/AbortVersioningOfLargeFilesAndImages)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/SkipVersioningOfLargeFilesAndImages)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/SkipBlobs)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/CloneBlobs)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_modifier/Skip_z3c_blobfile)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_purgepolicy)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_referencefactories)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/portal_repository)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/bobdev/acl_users)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/acl_users)
+
+------
+2018-02-28T03:17:37 INFO PluggableAuthService.upgrade.replace_acl_users Root acl_users has been replaced, and local role assignments updated.
+
+------
+2018-02-28T03:17:37 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.app.z3cform:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:17:37 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2018-02-28T03:17:37 INFO GenericSetup.bundles Cannot find registry
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.app.registry:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.app.discussion:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:17:37 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.catalog Catalog imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.workflow Workflow tool imported.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.app.intid:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.app.relationfield:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.app.linkintegrity:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.resource:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.toolset Toolset imported.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Adapters registered.
+------
+2018-02-28T03:17:37 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:17:37 INFO Products.GenericSetup.tool Applying profile profile-plone.app.theming:default
+------
+2018-02-28T03:17:37 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:38 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.users:default
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO plone.app.users.setuphandlers Imported schema
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying profile profile-plone.outputfilters:default
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying profile profile-plone.app.querystring:default
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying profile profile-plone.portlet.collection:default
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying profile profile-plone.portlet.static:default
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying profile profile-plone.keyring:default
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO GenericSetup.componentregistry Utilities registered.
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying profile profile-plone.protect:default
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO Products.GenericSetup.tool Applying main profile profile-Products.CMFPlone:dependencies
+------
+2018-02-28T03:17:38 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:38 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:38 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool Importing profile profile-plone.app.contenttypes:plone-content with dependency strategy upgrade.
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool Applying profile profile-plone.app.dexterity:default
+------
+2018-02-28T03:17:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool Applying profile profile-plone.formwidget.recurrence:default
+------
+2018-02-28T03:17:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool Applying profile profile-plone.app.event:default
+------
+2018-02-28T03:17:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.actions Actions tool imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:17:39 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Folder' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Collection' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Old catalog DateIndex start deleted.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Catalog DateRecurringIndex start created.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Catalog metadata column start already exists.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Old catalog DateIndex end deleted.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Catalog DateRecurringIndex end created.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Catalog metadata column end already exists.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Catalog FieldIndex sync_uid created.
+------
+2018-02-28T03:17:39 INFO plone.app.event.setuphandlers Catalog metadata column sync_uid created.
+------
+2018-02-28T03:17:39 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.querystring:default. Profile stays at version (u'13',).
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.intid:default. Profile stays at version (u'1',).
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.relationfield:default. Profile stays at version (u'1',).
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool Applying profile profile-plone.app.versioningbehavior:default
+------
+2018-02-28T03:17:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.discussion:default. Profile stays at version (u'102',).
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool Applying profile profile-plone.app.contenttypes:default
+------
+2018-02-28T03:17:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup. DiffTool settings imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup. DiffTool settings imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:17:39 INFO GenericSetup.types Types tool imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Collection' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Document' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Folder' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Link' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'File' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Image' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'News Item' type info imported.
+------
+2018-02-28T03:17:39 INFO GenericSetup.types 'Event' type info imported.
+------
+2018-02-28T03:17:39 INFO Products.GenericSetup.tool Applying main profile profile-plone.app.contenttypes:plone-content
+------
+2018-02-28T03:17:39 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:40 INFO GenericSetup.portlets Portlets imported
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool Importing profile profile-plonetheme.barceloneta:default with dependency strategy upgrade.
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.resource:default. Profile stays at version (u'1',).
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.theming:default. Profile stays at version (u'1001',).
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool Applying main profile profile-plonetheme.barceloneta:default
+------
+2018-02-28T03:17:40 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:40 INFO GenericSetup.skins Skins tool imported.
+------
+2018-02-28T03:17:40 INFO GenericSetup.browserlayer Browser layers imported
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy shared invalidation requires local cache reset on 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy initializing local cache on thread 140191104829184 for http://pythonrw-sai0819.c9users.io/bobdev::barceloneta
+------
+2018-02-28T03:17:40 INFO GenericSetup.plone.app.theming.exportimport Theme barceloneta applied
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:40 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2018-02-28T03:17:40 INFO GenericSetup.plone.app.theming.exportimport Theme enabled
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool Importing profile profile-plone.app.caching:default with dependency strategy upgrade.
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2018-02-28T03:17:40 INFO Products.GenericSetup.tool Applying main profile profile-plone.app.caching:default
+------
+2018-02-28T03:17:40 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2018-02-28T03:17:40 INFO GenericSetup.controlpanel Control panel imported.
+------
+2018-02-28T03:17:42 INFO plone.app.theming.policy shared invalidation requires local cache reset on 140191104829184
+------
+2018-02-28T03:17:42 INFO plone.app.theming.policy local cache invalidated on thread 140191104829184
+------
+2018-02-28T03:17:42 INFO plone.app.theming.policy initializing local cache on thread 140191104829184 for http://pythonrw-sai0819.c9users.io/bobdev::barceloneta
+------
+2018-02-28T03:18:13 INFO SignalHandler Caught signal SIGINT
+------
+2018-02-28T03:18:13 INFO Z2 Shutting down
